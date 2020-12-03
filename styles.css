@@ -1,0 +1,38 @@
+.header-link-select {
+
+    background-color: #ABBF7E;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header-link-select:hover {
+    text-decoration: none;
+    background-color: #96AA67;
+    color: #fff;
+}
+
+.header-link {
+    color: #000;
+}
+
+.header-link:hover {
+    text-decoration: none;
+    background-color: #ABBF7E;
+    color: #ffffff;
+}
+
+.social-links {
+    color: slategray;
+}
+
+.social-links:hover {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+.app-btn{
+    text-decoration: none;
+}
+.app-btn:hover{
+    text-decoration: none;
+}
