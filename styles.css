@@ -36,3 +36,6 @@
 .app-btn:hover{
     text-decoration: none;
 }
+.phone-frame{
+    max-height: 400px;
+}
