@@ -39,3 +39,7 @@
 .phone-frame{
     max-height: 400px;
 }
+.app-icons{
+    max-height: 200px;
+    max-width: 200px;
+}
